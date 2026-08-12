@@ -4,7 +4,7 @@
 
 I build responsive web applications and REST APIs with **TypeScript, Angular, Node.js, Express, and PostgreSQL**.
 
-I'm currently studying Software Engineering at **Adama Science and Technology University** and building practical experience through academic projects, personal projects, and an **R&D internship at eTech S.C.**
+I'm currently studying Software Engineering at **Adama Science and Technology University** and building practical experience through academic projects, personal projects, and an **internship at eTech S.C.**
 
 ---
 
@@ -16,7 +16,7 @@ My current focus is building real applications rather than collecting technologi
 
 I'm currently developing my skills through:
 
-- 🏢 **R&D Internship at eTech S.C.**
+- 🏢 **Internship at eTech S.C.**
 - 🛡️ **InsureFlow** — insurance management platform
 - 📱 **CSEC Mobile App** — individual mobile application project
 - 📝 **NoteFlow** — mobile note-taking application
@@ -120,11 +120,11 @@ A mobile application I'm currently developing as part of my work with the CSEC A
 
 ## 💼 Experience
 
-### R&D Intern — eTech S.C.
+### eTech S.C.
 
 **2026 — Present**
 
-Working as an R&D intern on real-world software development projects.
+Working as an eTech S.C intern on real-world software development projects.
 
 My experience includes:
 
