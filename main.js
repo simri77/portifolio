@@ -346,6 +346,14 @@ if (yearElement) {
         new Date().getFullYear();
 
 }
+/*=============== CLEAN URL PARAMETERS ===============*/
+if (window.location.search) {
+    window.history.replaceState(
+        {},
+        document.title,
+        window.location.pathname + window.location.hash
+    );
+}
 
 
 /* =========================================================
